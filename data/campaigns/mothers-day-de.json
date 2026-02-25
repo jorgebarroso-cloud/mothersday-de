@@ -1,0 +1,36 @@
+{
+  "slug": "mothers-day-de",
+  "locale": "de",
+  "domain": "https://muttertagfeiern.de",
+  "feverBase": "https://feverup.com",
+  "feverPathTemplate": "https://feverup.com/de/{city}/mutters-tag",
+  "feverCandlelightPathTemplate": "https://feverup.com/de/{city}/candlelight-{city}",
+  "outputDataFile": "data/fever-plans-de.json",
+  "cities": [
+    {
+      "slug": "berlin",
+      "name": "Berlin"
+    },
+    {
+      "slug": "munich",
+      "name": "München"
+    }
+  ],
+  "maxExperiencesPerCity": 24,
+  "maxGiftCardsPerCity": 12,
+  "campaignName": "Muttertag",
+  "countryLabel": "Deutschland",
+  "siteName": "Muttertag feiern",
+  "countdownType": "none",
+  "copy": {
+    "countdownMessage": "Noch {days} Tage bis zum {campaignName}!",
+    "heroCta": "{campaignName}-Erlebnisse entdecken",
+    "seeAllOnFever": "Alles auf Fever anzeigen",
+    "breadcrumbHome": "Deutschland",
+    "heroTitleHome": "Muttertag 2026 — Geschenke, Ideen und Erlebnisse",
+    "heroTitleCity": "Muttertag in {city} — Geschenke und Ideen",
+    "heroImageAltHome": "Mutter und Tochter beim Tee — Muttertag Erlebnisgeschenk",
+    "heroImageAltCity": "Mutter und Tochter — Muttertag Erlebnis in {city}",
+    "heroImageAltSubpage": "Mutter und Tochter — Muttertag {topic} in {city}"
+  }
+}
