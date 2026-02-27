@@ -152,14 +152,14 @@
         "image": "https://applications-media.feverup.com/image/upload/f_auto,ar_15:8,c_fill/fever2/plan/photo/7c807528-1ab3-11f0-9eff-324ba1e3eb01.jpg"
       },
       {
-        "name": "Brighton Candlelight: Tribute to Coldplay & Imagine Dragons Royal Pavilion 4.6(81)",
-        "url": "https://feverup.com/m/167665",
-        "image": "https://applications-media.feverup.com/image/upload/f_auto,ar_15:8,c_fill/fever2/plan/photo/55ef9d82-1156-11f0-b5b0-0ee885ccc32f.jpg"
-      },
-      {
         "name": "Candlelight: Ed Sheeran Meets Coldplay Central Hall Westminster 4.7(299)",
         "url": "https://feverup.com/m/395155",
         "image": "https://applications-media.feverup.com/image/upload/f_auto,ar_15:8,c_fill/fever2/plan/photo/f978ce46-1f76-11f0-a117-a2b54bc7250d.jpg"
+      },
+      {
+        "name": "Brighton Candlelight: Tribute to Coldplay & Imagine Dragons Royal Pavilion 4.6(81)",
+        "url": "https://feverup.com/m/167665",
+        "image": "https://applications-media.feverup.com/image/upload/f_auto,ar_15:8,c_fill/fever2/plan/photo/55ef9d82-1156-11f0-b5b0-0ee885ccc32f.jpg"
       },
       {
         "name": "Candlelight: Tribute to the Beatles Southwark Cathedral 4.7(110)",
@@ -561,6 +561,11 @@
         "image": "https://applications-media.feverup.com/image/upload/f_auto,ar_15:8,c_fill/fever2/plan/photo/b95e7640-1520-11f0-adc2-4201d8ef7b07.jpg"
       },
       {
+        "name": "Candlelight: The Best of Hans Zimmer St Paul's Church (Birmingham) 4.4(66)",
+        "url": "https://feverup.com/m/152082",
+        "image": "https://applications-media.feverup.com/image/upload/f_auto,ar_15:8,c_fill/fever2/plan/photo/d32f4f7e-c402-11ee-ba22-167a4b609cd4.jpg"
+      },
+      {
         "name": "Candlelight: Best of Bridgerton on Strings - WaitlistGeneral sale on this date — Join the waitlist for presale access",
         "url": "https://feverup.com/m/497045",
         "image": "https://applications-media.feverup.com/image/upload/f_auto,ar_15:8,c_fill/fever2/plan/photo/40721b50-10d4-11f1-b303-7a22482710c8.jpg"
@@ -654,11 +659,6 @@
         "name": "Candlelight: The Best of Joe Hisaishi St Paul's Church (Birmingham) 5.0(11)",
         "url": "https://feverup.com/m/502697",
         "image": "https://applications-media.feverup.com/image/upload/f_auto,ar_15:8,c_fill/fever2/plan/photo/7899f520-1517-11f0-b514-de6a0d69aec6.jpg"
-      },
-      {
-        "name": "Candlelight: The Best of Hans Zimmer St Paul's Church (Birmingham) 4.4(66)",
-        "url": "https://feverup.com/m/152082",
-        "image": "https://applications-media.feverup.com/image/upload/f_auto,ar_15:8,c_fill/fever2/plan/photo/d32f4f7e-c402-11ee-ba22-167a4b609cd4.jpg"
       }
     ]
   },
